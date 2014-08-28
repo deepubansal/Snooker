@@ -6,7 +6,7 @@ How to run:
 
 1. Build the file using "mvn clean install".
 2. From the Project's home directory run the Jar file in target folder using below command:
-   java -cp target/snooker-0.0.1-SNAPSHOT.jar pool.Pool
+   <code>java -cp target/snooker-0.0.1-SNAPSHOT.jar pool.Pool</code>
 
 About Snooker:
 --------------
