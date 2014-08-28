@@ -9,7 +9,7 @@ How to run:
    java -cp target/snooker-0.0.1-SNAPSHOT.jar pool.Pool
 
 About Snooker:
-==============
+--------------
 
 The project began with creating a Jpanel with an image background. Jpanel is a swings component that acts as a container for the application or a Jframe. This class is named ImagePanel class that provides a JPanel with an image as the background. It is used in two places. First, in displaying the board of the game. Second, for user input display like power stick setting and spin setting. Thus Board class and spinInput class extend this ImagePanel class. 
 
@@ -19,6 +19,6 @@ Ball is a super class of the balls with subclasses as CueBall(White), ColouredBa
 
 
 Concepts Used:
-==============
+--------------
 Multithreading, Physics Formulae for rolling and sliding motions, Java Swings.
 
